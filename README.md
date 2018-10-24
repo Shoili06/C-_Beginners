@@ -1,6 +1,6 @@
 # NO_NINE 
 
-Problem 
+Problem Question :
 
 No Nine is a counting game that you can try when you are bored. In this game, you are only allowed to say numbers that are legal. A number is legal if and only if all of the following are true:
 
